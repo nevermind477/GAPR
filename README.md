@@ -1,4 +1,4 @@
-# GAPR — Geometric Analysis Program
+# GAPR - Geometric Analysis Program
 
 ---
 
